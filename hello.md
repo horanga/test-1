@@ -16,4 +16,4 @@ dfgdfgdfgdfgdfgdfdffadfasdfasdfasdfsasdfasdfasdf
 **reset
 -쉽다
 -커밋이 날아간다
--강제 push가 필요하다ㅋㅌㅊㅍㅋ
+-강제 push가 필요하다
